@@ -1,16 +1,13 @@
 body {
-    background-image: url();
+    background-image: url(../images/gbbui8bvha9z.png);
     text-align: center;
 }
-
 .text-muted {
     color: blue;
 }
-
 .last-seconds {
     color: red;
 }
-
 .option {
     margin: 15px;
 }
